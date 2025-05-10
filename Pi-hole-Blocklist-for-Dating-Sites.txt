@@ -1,155 +1,305 @@
 # Liste de blocage pour Pi-hole - Sites de rencontres (Français et Internationaux)
 # Générée le 10 mai 2025
+# Format : 0.0.0.0 pour blocage DNS, incluant les versions www.*
 
 # Sites de rencontres français
-meetic.fr
-disonsdemain.fr
-elite-rencontre.fr
-adopteunmec.com
-attractiveworld.net
-edarling.fr
-o-neeto.com
-nosbellesannees.fr
-quintonic.fr
-meeticaffinity.fr
-meetic.fr.st
-rencontreslocales.com
-jecontacte.com
-vivastreet.com
-netechangisme.com
-idilys.com
-gleeden.com
-wyylde.com
-nouslib.com
-placedulibertinage.com
-tchatche.com
-coco.fr
-smail.fr
-easyflirt.com
-flirt.com
-lovepedia.net
-superencontre.com
-spiice.co
-spiice.io
-spiiiice.fr
-be2.fr
-behappy2day.com
-sansengagement.com
-celilove.com
-le-beguin.fr
-jm-date.com
-sexylib.com
-voisinsolitaires.com
-fliirty.com
-tchat-adultere.com
-top10planscoquins.com
-zone-sexe.com
-baise-facile.com
-be-coquin.com
-la-date.com
-amourfactory.com
-loveawake.com
-onvasortir.com
-meeticmobile.fr
-hugavenue.com
-rencontreseniors.fr
-pointtrans.fr
-freemeet.net
-inshallah.com
-mektoube.fr
-mignonne.com
-plan-cul-seulement.com
-cougars-avenue.com
-rdvtorride.com
-tendre-rencontre.fr
-date-love.be
-amoureux.com
-votre-recontre.com
-c-libertin.fr
-xflirt.com
-coquinou.com
-rencontresexy.fr
-vivrenamour.fr
-rencontre-adulte.com
-jacquieetmichelcontact.com
-soiree-libertine.com
-planlibertin.com
-oulfa.fr
-meetcrunch.com
-libertic.com
-entrecoquins.com
-weshalope.com
-sexyavenue.com
-madintouch.com
+0.0.0.0 meetic.fr
+0.0.0.0 www.meetic.fr
+0.0.0.0 disonsdemain.fr
+0.0.0.0 www.disonsdemain.fr
+0.0.0.0 elite-rencontre.fr
+0.0.0.0 www.elite-rencontre.fr
+0.0.0.0 adopteunmec.com
+0.0.0.0 www.adopteunmec.com
+0.0.0.0 attractiveworld.net
+0.0.0.0 www.attractiveworld.net
+0.0.0.0 edarling.fr
+0.0.0.0 www.edarling.fr
+0.0.0.0 o-neeto.com
+0.0.0.0 www.o-neeto.com
+0.0.0.0 nosbellesannees.fr
+0.0.0.0 www.nosbellesannees.fr
+0.0.0.0 quintonic.fr
+0.0.0.0 www.quintonic.fr
+0.0.0.0 meeticaffinity.fr
+0.0.0.0 www.meeticaffinity.fr
+0.0.0.0 meetic.fr.st
+0.0.0.0 www.meetic.fr.st
+0.0.0.0 rencontreslocales.com
+0.0.0.0 www.rencontreslocales.com
+0.0.0.0 jecontacte.com
+0.0.0.0 www.jecontacte.com
+0.0.0.0 vivastreet.com
+0.0.0.0 www.vivastreet.com
+0.0.0.0 netechangisme.com
+0.0.0.0 www.netechangisme.com
+0.0.0.0 idilys.com
+0.0.0.0 www.idilys.com
+0.0.0.0 gleeden.com
+0.0.0.0 www.gleeden.com
+0.0.0.0 wyylde.com
+0.0.0.0 www.wyylde.com
+0.0.0.0 nouslib.com
+0.0.0.0 www.nouslib.com
+0.0.0.0 placedulibertinage.com
+0.0.0.0 www.placedulibertinage.com
+0.0.0.0 tchatche.com
+0.0.0.0 www.tchatche.com
+0.0.0.0 coco.fr
+0.0.0.0 www.coco.fr
+0.0.0.0 smail.fr
+0.0.0.0 www.smail.fr
+0.0.0.0 easyflirt.com
+0.0.0.0 www.easyflirt.com
+0.0.0.0 flirt.com
+0.0.0.0 www.flirt.com
+0.0.0.0 lovepedia.net
+0.0.0.0 www.lovepedia.net
+0.0.0.0 superencontre.com
+0.0.0.0 www.superencontre.com
+0.0.0.0 spiice.co
+0.0.0.0 www.spiice.co
+0.0.0.0 spiice.io
+0.0.0.0 www.spiice.io
+0.0.0.0 spiiiice.fr
+0.0.0.0 www.spiiiice.fr
+0.0.0.0 be2.fr
+0.0.0.0 www.be2.fr
+0.0.0.0 behappy2day.com
+0.0.0.0 www.behappy2day.com
+0.0.0.0 sansengagement.com
+0.0.0.0 www.sansengagement.com
+0.0.0.0 celilove.com
+0.0.0.0 www.celilove.com
+0.0.0.0 le-beguin.fr
+0.0.0.0 www.le-beguin.fr
+0.0.0.0 jm-date.com
+0.0.0.0 www.jm-date.com
+0.0.0.0 sexylib.com
+0.0.0.0 www.sexylib.com
+0.0.0.0 voisinsolitaires.com
+0.0.0.0 www.voisinsolitaires.com
+0.0.0.0 fliirty.com
+0.0.0.0 www.fliirty.com
+0.0.0.0 top10planscoquins.com
+0.0.0.0 www.top10planscoquins.com
+0.0.0.0 zone-sexe.com
+0.0.0.0 www.zone-sexe.com
+0.0.0.0 baise-facile.com
+0.0.0.0 www.baise-facile.com
+0.0.0.0 be-coquin.com
+0.0.0.0 www.be-coquin.com
+0.0.0.0 la-date.com
+0.0.0.0 www.la-date.com
+0.0.0.0 amourfactory.com
+0.0.0.0 www.amourfactory.com
+0.0.0.0 loveawake.com
+0.0.0.0 www.loveawake.com
+0.0.0.0 onvasortir.com
+0.0.0.0 www.onvasortir.com
+0.0.0.0 meeticmobile.fr
+0.0.0.0 www.meeticmobile.fr
+0.0.0.0 hugavenue.com
+0.0.0.0 www.hugavenue.com
+0.0.0.0 rencontreseniors.fr
+0.0.0.0 www.rencontreseniors.fr
+0.0.0.0 pointtrans.fr
+0.0.0.0 www.pointtrans.fr
+0.0.0.0 freemeet.net
+0.0.0.0 www.freemeet.net
+0.0.0.0 inshallah.com
+0.0.0.0 www.inshallah.com
+0.0.0.0 mektoube.fr
+0.0.0.0 www.mektoube.fr
+0.0.0.0 mignonne.com
+0.0.0.0 www.mignonne.com
+0.0.0.0 plan-cul-seulement.com
+0.0.0.0 www.plan-cul-seulement.com
+0.0.0.0 cougars-avenue.com
+0.0.0.0 www.cougars-avenue.com
+0.0.0.0 rdvtorride.com
+0.0.0.0 www.rdvtorride.com
+0.0.0.0 tendre-rencontre.fr
+0.0.0.0 www.tendre-rencontre.fr
+0.0.0.0 date-love.be
+0.0.0.0 www.date-love.be
+0.0.0.0 amoureux.com
+0.0.0.0 www.amoureux.com
+0.0.0.0 votre-recontre.com
+0.0.0.0 www.votre-recontre.com
+0.0.0.0 c-libertin.fr
+0.0.0.0 www.c-libertin.fr
+0.0.0.0 tchat-adultere.com
+0.0.0.0 www.tchat-adultere.com
+0.0.0.0 xflirt.com
+0.0.0.0 www.xflirt.com
+0.0.0.0 coquinou.com
+0.0.0.0 www.coquinou.com
+0.0.0.0 rencontresexy.fr
+0.0.0.0 www.rencontresexy.fr
+0.0.0.0 vivrenamour.fr
+0.0.0.0 www.vivrenamour.fr
+0.0.0.0 rencontre-adulte.com
+0.0.0.0 www.rencontre-adulte.com
+0.0.0.0 jacquieetmichelcontact.com
+0.0.0.0 www.jacquieetmichelcontact.com
+0.0.0.0 soiree-libertine.com
+0.0.0.0 www.soiree-libertine.com
+0.0.0.0 planlibertin.com
+0.0.0.0 www.planlibertin.com
+0.0.0.0 oulfa.fr
+0.0.0.0 www.oulfa.fr
+0.0.0.0 meetcrunch.com
+0.0.0.0 www.meetcrunch.com
+0.0.0.0 libertic.com
+0.0.0.0 www.libertic.com
+0.0.0.0 entrecoquins.com
+0.0.0.0 www.entrecoquins.com
+0.0.0.0 weshalope.com
+0.0.0.0 www.weshalope.com
+0.0.0.0 sexyavenue.com
+0.0.0.0 www.sexyavenue.com
+0.0.0.0 madintouch.com
+0.0.0.0 www.madintouch.com
 
 # Sites de rencontres internationaux
-tinder.com
-badoo.com
-okcupid.com
-match.com
-bumble.com
-happn.com
-lovoo.com
-zoosk.com
-plentyoffish.com
-grindr.com
-herapp.com
-scruff.com
-hornet.com
-silversingles.com
-eharmony.com
-hinge.co
-coffeeandbagel.com
-theleague.com
-raya.com
-innercircle.co
-once.app
-fruitz.app
-ashleymadison.com
-seeking.com
-sugardaddy.com
-parship.com
-elitesingles.com
-adultfriendfinder.com
-fetlife.com
-lovescout24.com
-tagged.com
-clover.co
-pure.app
-feeld.co
-chispa-app.com
-jdate.com
-christianmingle.com
-blackpeoplemeet.com
-ourtime.com
-silvercupid.com
-upward.app
-anastasiadate.com
-lovoo.net
-benaughty.com
-flirtymature.com
-tawkify.com
-whatsyourprice.com
-wooplus.com
-fling.com
-passion.com
-spdate.com
-amateurmatch.com
-onlyflirts.com
-findbride.com
-interracialmatch.com
-latamdate.com
-asiandate.com
-cougarlife.com
-lespark.cn
-meetme.com
-skout.com
-hi5.com
-uniformdating.com
-farmersonly.com
-chinalovecupid.com
-dateinasia.com
-eurodate.com
-charmdate.com
-singlemuslim.com
-jswipeapp.com
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 badoo.com
+0.0.0.0 www.badoo.com
+0.0.0.0 okcupid.com
+0.0.0.0 www.okcupid.com
+0.0.0.0 match.com
+0.0.0.0 www.match.com
+0.0.0.0 bumble.com
+0.0.0.0 www.bumble.com
+0.0.0.0 happn.com
+0.0.0.0 www.happn.com
+0.0.0.0 lovoo.com
+0.0.0.0 www.lovoo.com
+0.0.0.0 zoosk.com
+0.0.0.0 www.zoosk.com
+0.0.0.0 plentyoffish.com
+0.0.0.0 www.plentyoffish.com
+0.0.0.0 grindr.com
+0.0.0.0 www.grindr.com
+0.0.0.0 herapp.com
+0.0.0.0 www.herapp.com
+0.0.0.0 scruff.com
+0.0.0.0 www.scruff.com
+0.0.0.0 hornet.com
+0.0.0.0 www.hornet.com
+0.0.0.0 silversingles.com
+0.0.0.0 www.silversingles.com
+0.0.0.0 eharmony.com
+0.0.0.0 www.eharmony.com
+0.0.0.0 hinge.co
+0.0.0.0 www.hinge.co
+0.0.0.0 coffeeandbagel.com
+0.0.0.0 www.coffeeandbagel.com
+0.0.0.0 theleague.com
+0.0.0.0 www.theleague.com
+0.0.0.0 raya.com
+0.0.0.0 www.raya.com
+0.0.0.0 innercircle.co
+0.0.0.0 www.innercircle.co
+0.0.0.0 once.app
+0.0.0.0 www.once.app
+0.0.0.0 fruitz.app
+0.0.0.0 www.fruitz.app
+0.0.0.0 ashleymadison.com
+0.0.0.0 www.ashleymadison.com
+0.0.0.0 seeking.com
+0.0.0.0 www.seeking.com
+0.0.0.0 sugardaddy.com
+0.0.0.0 www.sugardaddy.com
+0.0.0.0 parship.com
+0.0.0.0 www.parship.com
+0.0.0.0 elitesingles.com
+0.0.0.0 www.elitesingles.com
+0.0.0.0 adultfriendfinder.com
+0.0.0.0 www.adultfriendfinder.com
+0.0.0.0 fetlife.com
+0.0.0.0 www.fetlife.com
+0.0.0.0 lovescout24.com
+0.0.0.0 www.lovescout24.com
+0.0.0.0 tagged.com
+0.0.0.0 www.tagged.com
+0.0.0.0 clover.co
+0.0.0.0 www.clover.co
+0.0.0.0 pure.app
+0.0.0.0 www.pure.app
+0.0.0.0 feeld.co
+0.0.0.0 www.feeld.co
+0.0.0.0 chispa-app.com
+0.0.0.0 www.chispa-app.com
+0.0.0.0 jdate.com
+0.0.0.0 www.jdate.com
+0.0.0.0 christianmingle.com
+0.0.0.0 www.christianmingle.com
+0.0.0.0 blackpeoplemeet.com
+0.0.0.0 www.blackpeoplemeet.com
+0.0.0.0 ourtime.com
+0.0.0.0 www.ourtime.com
+0.0.0.0 silvercupid.com
+0.0.0.0 www.silvercupid.com
+0.0.0.0 upward.app
+0.0.0.0 www.upward.app
+0.0.0.0 anastasiadate.com
+0.0.0.0 www.anastasiadate.com
+0.0.0.0 lovoo.net
+0.0.0.0 www.lovoo.net
+0.0.0.0 benaughty.com
+0.0.0.0 www.benaughty.com
+0.0.0.0 flirtymature.com
+0.0.0.0 www.flirtymature.com
+0.0.0.0 tawkify.com
+0.0.0.0 www.tawkify.com
+0.0.0.0 whatsyourprice.com
+0.0.0.0 www.whatsyourprice.com
+0.0.0.0 wooplus.com
+0.0.0.0 www.wooplus.com
+0.0.0.0 fling.com
+0.0.0.0 www.fling.com
+0.0.0.0 passion.com
+0.0.0.0 www.passion.com
+0.0.0.0 spdate.com
+0.0.0.0 www.spdate.com
+0.0.0.0 amateurmatch.com
+0.0.0.0 www.amateurmatch.com
+0.0.0.0 onlyflirts.com
+0.0.0.0 www.onlyflirts.com
+0.0.0.0 findbride.com
+0.0.0.0 www.findbride.com
+0.0.0.0 interracialmatch.com
+0.0.0.0 www.interracialmatch.com
+0.0.0.0 latamdate.com
+0.0.0.0 www.latamdate.com
+0.0.0.0 asiandate.com
+0.0.0.0 www.asiandate.com
+0.0.0.0 cougarlife.com
+0.0.0.0 www.cougarlife.com
+0.0.0.0 lespark.cn
+0.0.0.0 www.lespark.cn
+0.0.0.0 meetme.com
+0.0.0.0 www.meetme.com
+0.0.0.0 skout.com
+0.0.0.0 www.skout.com
+0.0.0.0 hi5.com
+0.0.0.0 www.hi5.com
+0.0.0.0 uniformdating.com
+0.0.0.0 www.uniformdating.com
+0.0.0.0 farmersonly.com
+0.0.0.0 www.farmersonly.com
+0.0.0.0 chinalovecupid.com
+0.0.0.0 www.chinalovecupid.com
+0.0.0.0 dateinasia.com
+0.0.0.0 www.dateinasia.com
+0.0.0.0 eurodate.com
+0.0.0.0 www.eurodate.com
+0.0.0.0 charmdate.com
+0.0.0.0 www.charmdate.com
+0.0.0.0 singlemuslim.com
+0.0.0.0 www.singlemuslim.com
+0.0.0.0 jswipeapp.com
+0.0.0.0 www.jswipeapp.com
