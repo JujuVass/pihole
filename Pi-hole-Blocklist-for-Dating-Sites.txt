@@ -8,7 +8,9 @@
 0.0.0.0 disonsdemain.fr
 0.0.0.0 www.disonsdemain.fr
 0.0.0.0 elite-rencontre.fr
+0.0.0.0 eliterencontre.fr
 0.0.0.0 www.elite-rencontre.fr
+0.0.0.0 www.eliterencontre.fr
 0.0.0.0 adopteunmec.com
 0.0.0.0 www.adopteunmec.com
 0.0.0.0 attractiveworld.net
